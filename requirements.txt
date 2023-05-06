@@ -1,1 +1,3 @@
-dearpygui
+customtkinter
+Pillow
+pywin32
